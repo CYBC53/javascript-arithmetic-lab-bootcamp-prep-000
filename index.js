@@ -1,3 +1,5 @@
-function add(a + b)
+function add(a + b){
+  returns(a+b)
+}
   returns(add)
   

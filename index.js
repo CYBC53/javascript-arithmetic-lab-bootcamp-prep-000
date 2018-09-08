@@ -22,4 +22,3 @@ function dec(n){
   return(n-=1)
 }
 
-parseInt('2.2222', 10)
